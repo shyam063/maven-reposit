@@ -1,0 +1,7 @@
+<project name="redhat" default="WAR-build" basedir=".">
+	<description>redhat - Build file</description>
+
+	<import file="buildProperties.xml"/>
+	<import file="buildTasks.xml"/>
+
+</project>
